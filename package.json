@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durganp1/jest-another-rpg2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durganp1/jest-another-rpg2/issues"
+  },
+  "homepage": "https://github.com/durganp1/jest-another-rpg2#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
